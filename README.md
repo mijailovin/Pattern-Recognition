@@ -5,8 +5,6 @@ Implementing some machine learning concepts. Consists of several parts:
   On generated 2D data for better visuals.
 3. Implementation of optimal Linear classifies using two methods: classical Numerical method, and desired output method
 4. Clustering algorithm using several methods on several types of generated classes. Implemented algorithms are:
-  K-means
-  Maximum Likelihood estimation
-  Method of quadratic decompositions
+  K-means, Maximum Likelihood estimation, Method of quadratic decompositions
   
 
